@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "learn_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "learn_cpp_001::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn_cpp_001-Debug-07668e99786ac5660fe0.json",
+					"name" : "learn_cpp_001",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn_cpp_002::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn_cpp_002-Debug-f686797ea27892f86fbc.json",
+					"name" : "learn_cpp_002",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn_cpp_003::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn_cpp_003-Debug-39cee97184cf8f2c0c87.json",
+					"name" : "learn_cpp_003",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/learn_cpp/cmake-build-debug",
+		"source" : "D:/learn_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

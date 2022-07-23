@@ -1,3 +1,0 @@
-D:/learn_cpp/001/cmake-build-debug/CMakeFiles/learn_cpp.dir
-D:/learn_cpp/001/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/learn_cpp/001/cmake-build-debug/CMakeFiles/rebuild_cache.dir
